@@ -9,12 +9,15 @@ This repo documents some of my drafted solutions to the exercises from *All of S
 ### Complete
 1. Chapter 5: Convergence of Random Variables
 2. Chapter 8: The Bootstrap
+3. Chapter 2.11, 2.12: Transformation of Random Variables
 
 ### In Progress
-1. Chapter 2.11, 2.12: Transformation of Random Variables
+1. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
 
 ### To be Done
-1. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
-2. Chapter 11: Bayesian Inference
+1. Chapter 11: Bayesian Inference
+2. Chapter 20: Nonparametric Curve Estimation
+3. Chapter 22: Classification
+4. Chatper 24: Simulation Methods
 
 
