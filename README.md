@@ -6,10 +6,10 @@ This repo documents some of my drafted solutions to the exercises from *All of S
 2. MIT MOOC - Statistics for Applications (Prof. Philippe Rigollet) https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm
 
 ### Complete
-1. Chapter 5: Convergence of Random Variables (Cleared)
+1. Chapter 5: Convergence of Random Variables
 
 ### In Progress
-1. Chapter 8: The Bootstrap (Doing Exercises)
+1. Chapter 8: The Bootstrap
 
 ### To be Done
 1. Chapter 2.11, 2.12: Transformation of Random Variables
