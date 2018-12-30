@@ -8,12 +8,13 @@ This repo documents some of my drafted solutions to the exercises from *All of S
 
 ### Complete
 1. Chapter 5: Convergence of Random Variables
+2. Chapter 8: The Bootstrap
 
 ### In Progress
-1. Chapter 8: The Bootstrap
+1. Chapter 2.11, 2.12: Transformation of Random Variables
 
 ### To be Done
-1. Chapter 2.11, 2.12: Transformation of Random Variables
-2. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
+1. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
+2. Chapter 11: Bayesian Inference
 
 
