@@ -1,7 +1,7 @@
-# Solution to Exercises in All of Statistics
-This repo documents some of my drafted solutions to the exercises from *All of Statistics by Larry Wasserman (1st Edition)*. I found the book is such a good read to graduate students for consolidated understanding of most statistics concepts. It motivated me to pick it up and created this repo during the 2018 winter break. 
+# Notes for All of Statistics
+This repo documents some of my notes for *All of Statistics by Larry Wasserman (1st Edition)*. I found the book is such a good read to graduate students for consolidated understanding of most statistics concepts. The book is a handy tool for revision. I decided to pick it up and created this repo during the 2018 winter break. 
 
-This repo only contains solutions to exercises that requires computer experiment. The book is a handy tool for revision and consolidation of most concepts in statistics. The solutions are mainly written in R and formatted in Jupyter Notebook.
+Most of the notes are addressing the post-chapter exercises. Some of them are the extended experiment for the exercises. The notes are mainly written in R and formatted in Jupyter Notebook.
 
 **If you found any errors from my work, feel free to report them to me.**
 
