@@ -3,7 +3,7 @@ This repo documents some of my notes for *All of Statistics by Larry Wasserman (
 
 Most of the notes are addressing the post-chapter exercises. Some of them are the extended experiment for the exercises. The notes are mainly written in R and formatted in Jupyter Notebook.
 
-**If you found any errors from my work, feel free to report them to me. Comments or suggestions are also welcome!**
+If you found any errors from my work, feel free to report them to me. Comments or suggestions are also welcome!
 
 # Related Learning Materials
 1. All of Statistics (Larry Wasserman) https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/ref=sr_1_1?ie=UTF8&qid=1546159688&sr=8-1&keywords=all+of+statistics
