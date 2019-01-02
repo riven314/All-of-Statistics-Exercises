@@ -20,5 +20,5 @@ This repo documents some of my drafted solutions to the exercises from *All of S
 2. Chapter 22: Classification
 3. Chatper 24: Simulation Methods
 
-# Remarks
+### Remarks
 1. If you found any errors from my work, feel free to report them to me.
