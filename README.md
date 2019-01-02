@@ -1,5 +1,5 @@
 # Solution to Exercises in All of Statistics
-This repo documents some of my drafted solutions to the exercises from *All of Statistics by Larry Wasserman*. This repo only contains solutions to exercises that requires computer experiment. The book is a handy tool for revision and consolidation of most concepts in statistics. The solutions are mainly written in R and formatted in Jupyter Notebook.
+This repo documents some of my drafted solutions to the exercises from *All of Statistics by Larry Wasserman (1st Edition)*. This repo only contains solutions to exercises that requires computer experiment. The book is a handy tool for revision and consolidation of most concepts in statistics. The solutions are mainly written in R and formatted in Jupyter Notebook.
 
 ### References
 1. All of Statistics (Larry Wasserman) https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/ref=sr_1_1?ie=UTF8&qid=1546159688&sr=8-1&keywords=all+of+statistics
@@ -21,5 +21,4 @@ This repo documents some of my drafted solutions to the exercises from *All of S
 2. Chapter 22: Classification
 3. Chatper 24: Simulation Methods
 
-### Remarks
-1. If you found any errors from my work, feel free to report them to me.
+**If you found any errors from my work, feel free to report them to me.**
