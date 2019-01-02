@@ -12,14 +12,14 @@ This repo only contains solutions to exercises that requires computer experiment
 
 # Log (Updated in 02/01/2019)
 ### Complete
-1. Chapter 5: Convergence of Random Variables
-2. Chapter 8: The Bootstrap
-3. Chapter 2.11, 2.12: Transformation of Random Variables
+1. Chapter 2.11, 2.12: Transformation of Random Variables
+2. Chapter 5: Convergence of Random Variables
+3. Chapter 8: The Bootstrap
+4. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
 
 ### In Progress
-1. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
-2. Chapter 11: Bayesian Inference
-3. Chapter 8: Nonparametric Estimate of CDF
+1. Chapter 11: Bayesian Inference
+2. Chapter 8: Nonparametric Estimate of CDF
 
 ### To be Done
 1. Chapter 20: Nonparametric Curve Estimation
