@@ -1,6 +1,5 @@
 # Solution to Exercises in All of Statistics
-This repo documents some of my drafted solutions to the exercises from *All of Statistics by Larry Wasserman (1st Edition)*. I found the book is such a good read to graduate students for consolidated understanding of most statistics concepts. 
-This repo only contains solutions to exercises that requires computer experiment. The book is a handy tool for revision and consolidation of most concepts in statistics. The solutions are mainly written in R and formatted in Jupyter Notebook.
+This repo documents some of my drafted solutions to the exercises from *All of Statistics by Larry Wasserman (1st Edition)*. I found the book is such a good read to graduate students for consolidated understanding of most statistics concepts. It motivated me to pick it up and created this repo during the 2018 winter break. This repo only contains solutions to exercises that requires computer experiment. The book is a handy tool for revision and consolidation of most concepts in statistics. The solutions are mainly written in R and formatted in Jupyter Notebook.
 
 ### References
 1. All of Statistics (Larry Wasserman) https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/ref=sr_1_1?ie=UTF8&qid=1546159688&sr=8-1&keywords=all+of+statistics
