@@ -14,6 +14,7 @@ This repo documents some of my drafted solutions to the exercises from *All of S
 ### In Progress
 1. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
 2. Chapter 11: Bayesian Inference
+3. Chapter 8: Nonparametric Estimate of CDF
 
 ### To be Done
 1. Chapter 20: Nonparametric Curve Estimation
