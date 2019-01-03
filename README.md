@@ -10,7 +10,7 @@ If you found any errors from my work, feel free to report them to me. Comments o
 2. Computer Age Statistical Inference (Bradley Efron, Trevor Hastie) https://www.cambridge.org/core/books/computer-age-statistical-inference/E32C1911ED937D75CE159BBD21684D37
 3. MIT MOOC - Statistics for Applications (Prof. Philippe Rigollet) https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm
 
-# Log (Updated in 02/01/2019)
+# Log (Updated in 04/01/2019)
 ### Complete
 1. Chapter 2.11, 2.12: Transformation of Random Variables
 2. Chapter 5: Convergence of Random Variables
