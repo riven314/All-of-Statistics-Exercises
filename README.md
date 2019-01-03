@@ -16,10 +16,10 @@ If you found any errors from my work, feel free to report them to me. Comments o
 2. Chapter 5: Convergence of Random Variables
 3. Chapter 8: The Bootstrap
 4. Chapter 9.3-9.11: Maximum Likelihood Estimation and Delta Method
+5. Chapter 11: Bayesian Inference
 
 ### In Progress
-1. Chapter 11: Bayesian Inference
-2. Chapter 8: Nonparametric Estimate of CDF
+1. Chapter 8: Nonparametric Estimate of CDF
 
 ### To be Done
 1. Chapter 20: Nonparametric Curve Estimation
